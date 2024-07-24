@@ -1,0 +1,25 @@
+1) Machine learning é uma área da inteligência artificial que se concentra em desenvolver algoritmos e modelos que permitem aos computadores aprender a partir de dados. 
+   Em vez de serem programados explicitamente para realizar uma tarefa específica, esses sistemas usam padrões extraídas dos dados para melhorar seu desempenho em uma 
+   determinada tarefa ao longo do tempo e se adptando automaticamente.
+
+2) Em machine learning, os dados são geralmente divididos em três conjuntos distintos para garantir que o modelo treinado tenha bom desempenho e generalize bem para novos dados. 
+   Esses conjuntos são o conjunto de treinamento, o conjunto de validação e o conjunto de teste. O conjunto de treinamento é utilizado para treinar o modelo, ou seja, ajustar os
+   pesos dos parâmetros do modelo com base nos exemplos de entrada e saída fornecidos. O modelo aprende a identificar padrões e relações dados a partir deste conjunto. O conjunto
+   de validação serve para ajustar os parâmetros do modelo e avaliar o desempenho do modelo durante o treinamento e assim poder melhorar a capacidade de generalização do modelo.
+   O conjunto de teste é usado para avaliar o desempenho final do modelo após o treinamento completo e a otimização dos parâmetros, contendo dados que o modelo nunca viu antes du-
+   rante o treinamento ou validação.
+
+3) Tentaria ampliar meu dataset e conseguir todos os dados necessários para que o meu modelo fosse bem treinado.
+
+4) Uma matriz de confusão é uma ferramenta de avaliação que permite analisar o desempenho de um modelo de classificação. É especialmente útil para problemas de classificação binária 
+   e multiclasse, pois fornece uma visão detalhada de como as previsões do modelo se comparam aos valores reais. A matriz de confusão é uma tabela que resume os resultados das previsões 
+   do modelo em termos de acertos e erros.
+
+5) Algoritmos de machine learning têm aplicações potencialmente transformadoras em muitas áreas. Na área da saúde poderia ajudar no diagnóstico de doenças, analisando imagens médicas
+   para detectar doenças como câncer, doenças cardíacas e retinopatia diabética. Na agricultura, o monitoramento de culturas: Sensores e drones coletam dados sobre condições do solo, 
+   crescimento das plantas e condições climáticas, que são analisados por algoritmos para otimizar o uso de recursos e aumentar a produtividade. Detecção de pragas e doenças: Algoritmos 
+   podem identificar sinais precoces de pragas e doenças nas culturas através de imagens e outros dados. No transporte e logística, veículos autônomos: Algoritmos de machine learning são 
+   fundamentais no desenvolvimento de carros autônomos, permitindo que eles percebam e respondam ao ambiente de maneira segura. Roteirização e planejamento: Modelos podem otimizar rotas 
+   de transporte para minimizar custos e tempo de entrega. Em serviços financeiros, pode ser usado para detecção de fraudes: Algoritmos podem analisar transações financeiras em tempo real 
+   para detectar atividades fraudulentas. Há diversar aplicações em muitas áreas.
+
